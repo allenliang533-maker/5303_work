@@ -1,0 +1,238 @@
+LIMINAL MEMORIES / EXHIBIT WALK
+
+Suggested order; free exploration remains available. Cards open at the numbered viewing points and close by user action.
+All coordinates below are Three.js ground-plane X, Z in metres.
+
+01 / The Family Sofa
+Asset: oldsofa.glb
+Viewing point: -7.04, 0
+Audio: fabric.mp3; proximity range: 2.5 m
+BEIJING / AROUND 2000
+
+A CHILDHOOD MEMORY
+Shoes by the door. A thermos on the table. Someone has saved you the softest seat. In a Beijing apartment around the millennium, the living room could hold homework, visitors and an entire unhurried Sunday.
+
+DESIGN NOTES
+Dark upholstery, low arms and generous cushions make a small room feel settled. Here, the sofa anchors the domestic part of the route, giving the surrounding playground colours a familiar point of reference.
+
+02 / A Patch of Home
+Asset: blanket.glb
+Viewing point: -5.94, 0
+Audio: fabric.mp3; proximity range: 1.9 m
+HOME TEXTILES / EVERYDAY COMFORT
+
+A CHILDHOOD MEMORY
+A blanket becomes a picnic, a winter afternoon or a place to spread out picture books. It recalls the way ordinary fabric made small corners of a family flat feel like a room of your own.
+
+DESIGN NOTES
+A soft layer interrupts the hard geometry of tables and corridors. Its quiet colour and irregular folds keep the living-room cluster domestic, even when play equipment appears just a few steps away.
+
+03 / The Little Coffee Table
+Asset: small_coffee_table_p2.glb
+Viewing point: -5.06, -0.22
+Audio: tea.mp3; proximity range: 2.2 m
+LIVING ROOM / C. 2000
+
+A CHILDHOOD MEMORY
+Fruit peels, a remote control, a school exercise book: the low table collected whatever the family was doing. Children worked at its edge while adults talked over the television.
+
+DESIGN NOTES
+Low height and a compact footprint keep the sofa area open. The table is a shared surface rather than a formal dining place, connecting sitting, playing and everyday conversation.
+
+04 / After-School Television
+Asset: television_02.glb
+Viewing point: -4.4, -0.44
+Audio: tv_static.mp3; proximity range: 3.5 m
+ANALOG AFTERNOONS / C. 2000
+
+A CHILDHOOD MEMORY
+The screen warms up before the picture settles. A weather forecast gives way to an afternoon programme; someone calls from the kitchen. The hiss between channels belongs to the room as much as the furniture does.
+
+DESIGN NOTES
+A deep cabinet and rounded screen give this television a physical presence. The original programme created for this scene becomes clearer as you approach, turning reception noise into a gentle measure of distance.
+
+05 / One More Cup
+Asset: dark_metal_teapot.glb
+Viewing point: -2.42, -1.54
+Audio: tea.mp3; proximity range: 1.8 m
+TEA & VISITORS / EVERYDAY RITUALS
+
+A CHILDHOOD MEMORY
+A visitor stays a little longer. Water is poured again, and the conversation drifts from school to the neighbourhood. The teapot stands for the small repeated gestures that made a room feel welcoming.
+
+DESIGN NOTES
+A compact vessel brings attention to the scale of a hand. Its dark metal contrasts with the pale cups and flat tabletop, giving the living-room arrangement a quiet centre of gravity.
+
+06 / A Record Kept Playing
+Asset: turntable.glb
+Viewing point: -6.6, -2.2
+Audio: music_box.mp3; proximity range: 2.7 m
+LISTENING AT HOME / MIXED MEMORIES
+
+A CHILDHOOD MEMORY
+An older record player survives beside newer electronics. A family favourite comes back into the room, and the same corner suddenly belongs to another generation. Childhood memories rarely keep their decades neatly separated.
+
+DESIGN NOTES
+The circular platter sits inside a precise mechanical frame. It offers a slower image of listening, set against the television. The sound here is an original melody, not a recording from a historical album.
+
+07 / Before Everyone Wakes
+Asset: broom.glb
+Viewing point: -6.6, -3.08
+Audio: sweep.mp3; proximity range: 2.1 m
+HOUSEHOLD WORK / THE QUIET HOURS
+
+A CHILDHOOD MEMORY
+The corridor is quiet except for the sweep of bristles. A doorway is cleared before breakfast, and the home is ready for another day. Familiarity often lives in these unnoticed routines.
+
+DESIGN NOTES
+A long handle and narrow brush make a useful vertical accent beside low furniture. Its placement at the edge of the room remembers maintenance and care without turning them into a task for the visitor.
+
+08 / A Place for Company
+Asset: chinese_traditional_table_and_chair.glb
+Viewing point: -6.6, -7.26
+Audio: tea.mp3; proximity range: 2.5 m
+CHINESE DOMESTIC FORMS / C. 2000
+
+A CHILDHOOD MEMORY
+A wooden chair is pulled out for a guest. There is tea, a plate of fruit and room for one more story. Older furniture carried family habits into the changing apartments of the new millennium.
+
+DESIGN NOTES
+Straight rails, visible legs and a firm sitting posture distinguish this setting from the sofa. The familiar table-and-chair relationship lends structure to a room where domestic and public space now overlap.
+
+09 / A Room Inside a Room
+Asset: blanket_fort.glb
+Viewing point: -6.82, 0.22
+Audio: fabric.mp3; proximity range: 2.8 m
+CHILDHOOD INVENTIONS / ANY AFTERNOON
+
+A CHILDHOOD MEMORY
+Two chairs and a blanket were enough to make a secret address. The adults were still nearby, yet the light inside belonged to you. A small apartment could briefly contain a whole new world.
+
+DESIGN NOTES
+Draped fabric turns a few supports into an enclosure. Low openings and filtered light change the scale of the room without changing the architecture; the warm glow grows softly as you come close.
+
+10 / The Bright Blue Slide
+Asset: slide.glb
+Viewing point: -3.74, 0.22
+Audio: children.mp3; proximity range: 4.2 m
+NEIGHBOURHOOD PLAY / C. 2000
+
+A CHILDHOOD MEMORY
+A queue forms at the ladder. Someone below shouts for another turn. Bright playground colours recall the parks and residential courtyards where a short climb could feel like the biggest adventure of the afternoon.
+
+DESIGN NOTES
+A clear sequence of ladder, platform and curved descent makes the object readable at a glance. Red supports and a blue chute give the yellow room a vivid landmark. This exhibit is for viewing, not riding.
+
+11 / The Little Rocking Horse
+Asset: baby_horse_swing_3d_scan.glb
+Viewing point: -0.22, 5.28
+Audio: children.mp3; proximity range: 2.8 m
+SMALL RIDES / BIG IMAGINATIONS
+
+A CHILDHOOD MEMORY
+Feet almost touch the ground. The horse rocks a little, and the park becomes a journey. Its child-sized proportions bring back the feeling that a very small movement could take you somewhere far away.
+
+DESIGN NOTES
+A recognisable animal silhouette turns a simple rocking mechanism into a character. The worn surface is part of this scanned model, suggesting repeated use without claiming a particular Beijing location.
+
+12 / Two Seats, One Afternoon
+Asset: swing_set.glb
+Viewing point: 3.74, 6.82
+Audio: swing.mp3; proximity range: 3.5 m
+PARK COMPANIONS / C. 2000
+
+A CHILDHOOD MEMORY
+A friend keeps the other seat. Shoes brush the ground between pushes, while someone counts how high you have gone. The memory is less about speed than the shared rhythm of staying out a little longer.
+
+DESIGN NOTES
+An open frame leaves air around the suspended seats. Repetition and symmetry make the structure easy to recognise from a distance, while the slight creak in its soundscape gives the still model an imagined weight.
+
+13 / A Pause Beside the Water
+Asset: alcazar_garden_fountain.glb
+Viewing point: 3.74, 7.04
+Audio: water.mp3; proximity range: 4.1 m
+PARK INTERLUDE / AN IMAGINED MEMORY
+
+A CHILDHOOD MEMORY
+The family stops in the shade and listens to the water. Coins, reflected light and the cool edge of a basin blend into an impression of a public park on a warm day.
+
+DESIGN NOTES
+This ornamental fountain is an interpretive addition, not a reconstruction of a Beijing landmark. Its layered basin creates a calm centre between the rides and benches; soft ripples and nearby water sound invite a slower pace.
+
+14 / Waiting at the Park
+Asset: park_bench.glb
+Viewing point: 7.26, 6.6
+Audio: birds.mp3; proximity range: 3 m
+PUBLIC FURNITURE / EVERYDAY REST
+
+A CHILDHOOD MEMORY
+A shopping bag rests beside a grandparent. There is no hurry to stand up. From this seat, children can keep playing while the adults turn a short outing into an entire afternoon.
+
+DESIGN NOTES
+Repeated slats and a modest backrest make the bench visually lighter than the sofa. Placed beside the water, it carries the social role of a living-room seat into a public setting.
+
+15 / One More Turn
+Asset: slide2.glb
+Viewing point: 2.64, 3.74
+Audio: children.mp3; proximity range: 3.4 m
+BRIGHT PLAY EQUIPMENT / C. 2000
+
+A CHILDHOOD MEMORY
+The smaller slide always seemed to have room for another turn. Its colour catches the eye through the corridor, like a familiar playground glimpsed between the buildings on the way home.
+
+DESIGN NOTES
+A narrow chute and straightforward silhouette make a strong colour accent without filling the whole room. It shares a sightline with the tea setting, allowing playground and living room to gently interrupt one another.
+
+16 / The Tea Table
+Asset: chinese_style_tea_table.glb
+Viewing point: 2.42, 0.22
+Audio: tea.mp3; proximity range: 2.8 m
+CHINESE LIVING / SHARED TIME
+
+A CHILDHOOD MEMORY
+Cups are set out before the conversation begins. At the edge of a family gathering, a child learns that tea is also a way of making time for someone.
+
+DESIGN NOTES
+A coordinated tabletop and tea objects form a small landscape of use. The dark frame and repeated vessels bring a more formal domestic rhythm into the playful route; a faint rising mist makes the arrangement feel recently occupied.
+
+17 / The Slide That Stayed
+Asset: abandoned_childrens_slide.glb
+Viewing point: 7.7, 2.2
+Audio: children.mp3; proximity range: 3 m
+WORN COLOUR / LAYERS OF USE
+
+A CHILDHOOD MEMORY
+The paint has faded, but the shape is immediately familiar. A childhood place can change without becoming unrecognisable. Here the quieter slide holds that feeling of returning after several years away.
+
+DESIGN NOTES
+Wear contrasts with the brighter equipment nearby. Keeping both surfaces in one room suggests overlapping memories rather than a single perfectly restored year. The model's aged appearance is preserved as part of that contrast.
+
+18 / The Neighbourhood Play Frame
+Asset: swing_jhula.glb
+Viewing point: 7.7, -4.84
+Audio: children.mp3; proximity range: 4.8 m
+A SHARED COURTYARD / C. 2000
+
+A CHILDHOOD MEMORY
+There is always someone already playing. Friends arrive without a plan, games are invented, and names are called across the courtyard. The shared equipment becomes a meeting place as much as a ride.
+
+DESIGN NOTES
+Repeated uprights and strong primary colours organise a larger play structure. Its open frame allows views through it, extending the park beyond a single object while keeping the low Backrooms ceiling present.
+
+19 / Stay a Little Longer
+Asset: bench.glb
+Viewing point: 7.92, -5.5
+Audio: birds.mp3; proximity range: 2.8 m
+THE WALK HOME / AN OPEN END
+
+A CHILDHOOD MEMORY
+An adult says it is almost time to go. You sit down, stand up and ask for a few more minutes. This last bench holds the familiar wish to stay inside a good afternoon.
+
+DESIGN NOTES
+A simple resting place closes the suggested route without closing the experience. From here, every object can be visited again. The tour is a way of noticing the space, not a finish line.
+
+WALKING
+Original footstep.mp3 plays as a one-shot every 0.65 m of eligible virtual walking, after the Desktop preview click or an XR trigger has unlocked audio.
+
+VISUAL RESPONSES
+TV reception clarifies nearby; pictures emerge after a short stay; tea emits a faint mist; water has slow ripples; the blanket fort keeps a small warm glow after a visit.

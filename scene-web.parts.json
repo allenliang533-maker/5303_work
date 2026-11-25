@@ -1,0 +1,54 @@
+{
+  "bytes": 16299628,
+  "sha256": "cdbef31c32bd77b8bbcaf5ce9a36a68f433a81172a7e7178d8f9e5e7c89a6ce3",
+  "parts": [
+    {
+      "file": "scene-part-01-678172b65b.bin",
+      "offset": 0,
+      "bytes": 2097152,
+      "sha256": "678172b65b79ae98d799d48d582752edd1504353d96803e96f2dc96ba4c4bf10"
+    },
+    {
+      "file": "scene-part-02-bbd2c8e1c1.bin",
+      "offset": 2097152,
+      "bytes": 2097152,
+      "sha256": "bbd2c8e1c137bda641d6abbbfd1df8e8ef38ff1aa25b29dea5238631335b4566"
+    },
+    {
+      "file": "scene-part-03-2438046df1.bin",
+      "offset": 4194304,
+      "bytes": 2097152,
+      "sha256": "2438046df1b117f86d30d54263355c2c077d037cbd09387e23e10a538d1b26b4"
+    },
+    {
+      "file": "scene-part-04-70ff655c37.bin",
+      "offset": 6291456,
+      "bytes": 2097152,
+      "sha256": "70ff655c370d3b96f4a24f26645b795ec47d2663e5de0e63953dcbd283a4b3aa"
+    },
+    {
+      "file": "scene-part-05-161898c1fe.bin",
+      "offset": 8388608,
+      "bytes": 2097152,
+      "sha256": "161898c1fec4c9217008e4c9844d55a3b92604778814617747b3cf4596e3da36"
+    },
+    {
+      "file": "scene-part-06-e3c7058665.bin",
+      "offset": 10485760,
+      "bytes": 2097152,
+      "sha256": "e3c70586650f94335386e49ed22d3c508c39edfa01b264b635cf8ecf7139075a"
+    },
+    {
+      "file": "scene-part-07-155bf0be19.bin",
+      "offset": 12582912,
+      "bytes": 2097152,
+      "sha256": "155bf0be194a89b635c15dc173a7a37139d9b567479e56d7d274a809ba265bef"
+    },
+    {
+      "file": "scene-part-08-09ad402f4d.bin",
+      "offset": 14680064,
+      "bytes": 1619564,
+      "sha256": "09ad402f4d765d120fc3ef82ed7c5baad5546a499616f1acdadb121952b8b9d0"
+    }
+  ]
+}

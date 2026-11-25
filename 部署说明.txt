@@ -1,0 +1,11 @@
+GitHub Pages 最终部署包
+
+1. 解压 ZIP，上传解压后目录中的全部文件到仓库的发布根目录；不要只上传 ZIP，也不要只替换 index.html。
+2. index.html、8 个 scene-part-*.bin、scene-web.parts.json、音频、视频和图片必须在同一级目录。文件名大小写保持一致，保留 .nojekyll。
+3. GitHub 仓库 Settings > Pages 中使用 main 分支的 /(root)，或沿用已配置的完整目录发布流程。
+4. 等待 Pages 部署成功后，打开 https://allenliang533-maker.github.io/5303-s_work/ ，刷新页面以获取新版。
+5. 电脑点击 Desktop preview 即可启动声音；M 或声音按钮控制静音。Quest / Quest Link 进入 VR 后按扳机或捏合启动声音。
+
+本包包含模型分段、自动重试、文件完整性校验、视频重试、桌面与 VR 声音修复。模型分段总内容与原 scene-web.glb 完全一致。
+如加载中断，程序会自动重试；最终仍失败时可点击 Retry loading。
+本包未自动覆盖线上仓库；请上传本包全部文件后部署。
